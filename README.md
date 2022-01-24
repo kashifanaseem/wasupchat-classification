@@ -1,7 +1,9 @@
 # wasupchat-classification
 text classification on a raw chat data from scratch
+
 **Introduction:** Data was given in a text file and taken from a whatsapp chat, with 
 two column given, Date and Text. Aim was to find insights from the data.
+
 **Methodology:** For this few steps were considered given below:
  First difficulty was part of messages were in Date column because of text 
 file, it was handled by changing date in datetime format to separate string 
